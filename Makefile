@@ -1,8 +1,8 @@
 PROJECT_ID=storybooks-devops-314100
 ZONE=us-central1-a
 
-run-local:
-	docker-compose up
+# run-local:
+# 	docker-compose up
 
 ###
 
