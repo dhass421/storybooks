@@ -4,6 +4,8 @@
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
+Deployed to Google Cloud Compute Engine
+
 ## Usage
 
 Add your mongoDB URI and Google OAuth credentials to the config.env file
