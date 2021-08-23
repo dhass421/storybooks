@@ -4,7 +4,16 @@
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
-Deployed to Google Cloud Compute Engine
+This app also uses Terraform to provision both a staging and a production environment to deploy the app.
+
+### Staging
+https://user-images.githubusercontent.com/26441727/130375891-4799df14-641b-4186-be7e-1bd2fb00f4f7.png
+
+
+### Production
+https://user-images.githubusercontent.com/26441727/130375892-4f4a742d-0439-4e8e-a362-d701eaa8245a.png
+
+Deployed to Google Cloud Compute Engine, Database hosted on MongoDB Atlas, Cloudflare for DNS
 
 ## Usage
 
